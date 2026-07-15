@@ -1,38 +1,87 @@
-# Hi 👋, I'm Krishna Kumar
 
-### A passionate developer from around the world
 
-- 🔭 I'm currently working on **Web Scraping Using Python**
-
-- 🌱 I'm currently learning **cybersecurity and red teaming specifically how to attack systems and find vulnerabilities. Right now I'm focused on web security and adversarial machine learning**
-
-- 👯 I'm looking to collaborate on **Adversarial ML research • AI red teaming • LLM security testing • Web vulnerability research**
-
-- 🤝 I'm looking for help with **Taking my FGSM attacks project further • Web security testing • CTF/HackTheBox techniques • Linux security tools**
-
-- 💬 Ask me about **Python • Linux/Bash • Web vulnerabilities • Kali Linux**
-
-- 📫 How to reach me **Email:krishna.edu.pk@gmail.com Contact:03163459620**
-
-- ⚡ Fun fact **I am using computer since I was 5 years old and I am really good at problem solving and understanding things quickly**
-
-- 👨‍💻 All of my projects are available at **[https://github.com/Mr-KrishnaKumar](https://github.com/Mr-KrishnaKumar)**
-
-- 📄 Know about my experiences **[MY CV](https://drive.google.com/file/d/1VzOL3lkVL5aTGvFZ4G0BTZENbWSfzpPy/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Mr-KrishnaKumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mr-KrishnaKumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishna-kumar-a1575a410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-kumar-a1575a410" height="30" width="40" /></a>
-<a href="https://instagram.com/Krishna Kumar Mandhwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krishna Kumar Mandhwani" height="30" width="40" /></a>
-<a href="https://discord.gg/purple_crystal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="purple_crystal01" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Krishna+Kumar;Security+Researcher;AI+Red+Team+Engineer;Python+Developer" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialty-AI%20Red%20Teaming-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interest-Adversarial%20ML-4ECDC4?style=for-the-badge" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-KrishnaKumar&show_icons=true&locale=en&layout=compact" alt="Mr-KrishnaKumar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-KrishnaKumar&show_icons=true&locale=en" alt="Mr-KrishnaKumar" /></p>
+### About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-KrishnaKumar&" alt="Mr-KrishnaKumar" /></p>
+Security researcher focused on adversarial machine learning, AI red teaming, and web security. I find vulnerabilities in both traditional systems and ML pipelines.
+
+- **Working on:** Web scraping infrastructure & automated security tooling
+- **Learning:** Advanced red teaming, adversary-in-the-middle ML attacks, and Linux kernel exploitation
+- **Collaborating:** Adversarial ML research, LLM security testing, web vulnerability research, AI red teaming
+- **Seeking help with:** FGSM attack optimization, advanced web security testing, CTF/HackTheBox techniques
+- **Background:** Computing since age 5 with a strong grasp of systems thinking and problem-solving
+
+---
+
+### Technical Focus Areas
+
+```
+Cybersecurity         ████████████░░░░░░░░  60%
+AI/ML Red Teaming     ████████░░░░░░░░░░░░  40%
+```
+
+---
+
+### Languages & Tools
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="42" height="42"/></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="42" height="42"/></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="42" height="42"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="42" height="42"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="42" height="42"/></a>
+  <a href="https://www.anaconda.com" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="42" height="42"/></a>
+  <a href="https://www.blender.org" target="_blank"><img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="42" height="42"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="42" height="42"/></a>
+  <a href="https://ollama.com" target="_blank"><img src="https://cdn.simpleicons.org/ollama/000000" alt="Ollama" width="42" height="42"/></a>
+</p>
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-KrishnaKumar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-KrishnaKumar&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-KrishnaKumar&theme=tokyonight" alt="Streak Stats" height="160"/>
+</p>
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://github.com/Mr-KrishnaKumar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/krishna-kumar-a1575a410" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/Krishna%20Kumar%20Mandhwani" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discord.gg/purple_crystal01" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
+
+<p align="center">
+  <b>Email:</b> <a href="mailto:krishna.edu.pk@gmail.com">krishna.edu.pk@gmail.com</a> &nbsp;|&nbsp; <b>Phone:</b> 0316-3459620
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mr-KrishnaKumar"><img src="https://github-profile-trophy.vercel.app/?username=Mr-KrishnaKumar&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/></a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1VzOL3lkVL5aTGvFZ4G0BTZENbWSfzpPy/view?usp=sharing"><img src="https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV"/></a>
+  <a href="https://github.com/Mr-KrishnaKumar?tab=repositories"><img src="https://img.shields.io/badge/View%20Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/></a>
+</p>
