@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/Mr-KrishnaKumar](https://github.com/Mr-KrishnaKumar)**
 
-- 📄 Know about my experiences **[MY CV](PASS)**
+- 📄 Know about my experiences **[MY CV](https://drive.google.com/file/d/1VzOL3lkVL5aTGvFZ4G0BTZENbWSfzpPy/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
