@@ -43,16 +43,14 @@ Cybersecurity         ██████░░░░░░░░░░░░░�
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mr-KrishnaKumar&show_icons=true&theme=onedark" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-KrishnaKumar&layout=compact&theme=onedark" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-KrishnaKumar&theme=onedark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mr-KrishnaKumar&theme=onedark&no-frame=true" />
+  <img src="https://img.shields.io/github/stars/Mr-KrishnaKumar?style=for-the-badge&logo=github&color=F7C948" />
+  <img src="https://img.shields.io/github/followers/Mr-KrishnaKumar?style=for-the-badge&logo=github&color=6C63FF" />
+  <img src="https://img.shields.io/github/languages/count/Mr-KrishnaKumar/multiport-scanner?style=for-the-badge&logo=python&color=3776AB" />
+  <img src="https://img.shields.io/github/languages/top/Mr-KrishnaKumar/multiport-scanner?style=for-the-badge&logo=python&color=FFD43B" />
 </p>
 
 ---
